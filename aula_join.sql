@@ -1,3 +1,4 @@
+-- Montival Lucas - 180386 - Unasp SP
 -- Questão 1: Listar alunos ordenados por nome e data de nascimento. 
 SELECT nome, data_nascimento
 FROM aluno
